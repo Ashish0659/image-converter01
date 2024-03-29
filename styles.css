@@ -1,0 +1,14 @@
+.drag-text {
+    text-align: center;
+    padding: 20px;
+    border: 2px dashed #ccc;
+    cursor: pointer;
+}
+
+.highlight {
+    border-color: #007bff;
+}
+
+.file-uploaded .drag-text {
+    display: none;
+}
